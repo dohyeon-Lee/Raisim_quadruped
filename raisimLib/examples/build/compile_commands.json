@@ -1,0 +1,207 @@
+[
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/anymals.dir/src/maps/anymals.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/maps/anymals.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/maps/anymals.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/atlas.dir/src/maps/atlas.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/maps/atlas.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/maps/atlas.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/office1.dir/src/maps/office1.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/maps/office1.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/maps/office1.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/mountain1.dir/src/maps/mountain1.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/maps/mountain1.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/maps/mountain1.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/mjcf_ant.dir/src/mjcf/ant.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/mjcf/ant.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/mjcf/ant.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/mjcf_humanoid.dir/src/mjcf/humanoid.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/mjcf/humanoid.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/mjcf/humanoid.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/mjcf_cassie.dir/src/mjcf/cassie.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/mjcf/cassie.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/mjcf/cassie.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/templatedXml.dir/src/xml/templatedWorld.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/xml/templatedWorld.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/xml/templatedWorld.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/xmlRader.dir/src/xml/xmlReader.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/xml/xmlReader.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/xml/xmlReader.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/rayDemo.dir/src/server/rayDemo.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/server/rayDemo.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/server/rayDemo.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/dynamicHeightMap.dir/src/server/dynamicHeightMapUnrealOnly.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/server/dynamicHeightMapUnrealOnly.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/server/dynamicHeightMapUnrealOnly.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/heightMapUsingPng.dir/src/server/heightMapUsingPng.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/server/heightMapUsingPng.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/server/heightMapUsingPng.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/materials.dir/src/server/material.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/server/material.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/server/material.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/rayDemo2.dir/src/server/rayDemo2.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/server/rayDemo2.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/server/rayDemo2.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/materialStaticFriction.dir/src/server/materialStaticFriction.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/server/materialStaticFriction.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/server/materialStaticFriction.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/laikago.dir/src/server/laikago.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/server/laikago.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/server/laikago.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/balls.dir/src/server/balls.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/server/balls.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/server/balls.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/speed_test.dir/src/benchmark/speed_test.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/benchmark/speed_test.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/benchmark/speed_test.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/meshes.dir/src/server/meshes.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/server/meshes.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/server/meshes.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/hill1.dir/src/maps/hill1.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/maps/hill1.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/maps/hill1.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/heightmap.dir/src/server/heightmap.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/server/heightmap.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/server/heightmap.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/cartPole.dir/src/server/cartPole.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/server/cartPole.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/server/cartPole.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/primitives.dir/src/server/primitives.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/server/primitives.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/server/primitives.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/dzhanibekovEffect.dir/src/server/dzhanibekovEffect.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/server/dzhanibekovEffect.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/server/dzhanibekovEffect.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/lidar.dir/src/test/lidar.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/test/lidar.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/test/lidar.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/kinova.dir/src/maps/kinova.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/maps/kinova.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/maps/kinova.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/visualObjects.dir/src/server/visualObjects.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/server/visualObjects.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/server/visualObjects.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/wheeledRobot.dir/src/server/wheeledRobot.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/server/wheeledRobot.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/server/wheeledRobot.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/synchronousServerUpdate.dir/src/server/synchronousServerUpdate.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/server/synchronousServerUpdate.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/server/synchronousServerUpdate.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/aliengo.dir/src/server/aliengo.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/server/aliengo.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/server/aliengo.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/lidarwithrobot.dir/src/test/lidarwithrobot.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/test/lidarwithrobot.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/test/lidarwithrobot.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/compound.dir/src/server/compound.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/server/compound.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/server/compound.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/springTest.dir/src/server/springTest.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/server/springTest.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/server/springTest.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/newtonsCradle.dir/src/server/newtonsCradle.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/server/newtonsCradle.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/server/newtonsCradle.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/anymal_stress_test.dir/src/server/anymals_stress_test.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/server/anymals_stress_test.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/server/anymals_stress_test.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/trackedRobotAndTemplatedURDF.dir/src/server/trackedRobotAndTemplatedURDF.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/server/trackedRobotAndTemplatedURDF.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/server/trackedRobotAndTemplatedURDF.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/lake1.dir/src/maps/lake1.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/maps/lake1.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/maps/lake1.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/kinematicObject.dir/src/server/kinematicObject.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/server/kinematicObject.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/server/kinematicObject.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/sensors.dir/src/server/sensors.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/server/sensors.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/server/sensors.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/deletion.dir/src/server/deletion.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/server/deletion.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/server/deletion.cpp"
+},
+{
+  "directory": "/home/dohyeon/raisim_ws/raisimLib/examples/build",
+  "command": "/usr/bin/g++  -DRSDEBUG -DdIDEDOUBLE -I/usr/include/eigen3 -I/home/dohyeon/raisim_ws/raisimLib/examples/include -isystem /home/dohyeon/raisim_ws/raisimLib/raisim/linux/include  -g   -o CMakeFiles/inverseDynamics.dir/src/server/inverseDynamics.cpp.o -c /home/dohyeon/raisim_ws/raisimLib/examples/src/server/inverseDynamics.cpp",
+  "file": "/home/dohyeon/raisim_ws/raisimLib/examples/src/server/inverseDynamics.cpp"
+}
+]
